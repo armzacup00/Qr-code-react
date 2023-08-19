@@ -1,8 +1,9 @@
-# React + Vite
+# React + Vite + css + styled-components
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+this is Front-end test from :: https://www.frontendmentor.io/
+you can visit my solution here :: https://www.frontendmentor.io/solutions/qrcode-with-react--a7wfpMid0
+Live site Deploy with Netlify :: https://qrcode-react-thsp.netlify.app/
 
-Currently, two official plugins are available:
+QR code component
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/armzacup00/Qr-code-react/assets/75727727/79dbc734-1721-44f5-aec2-fd819c6e7423)
